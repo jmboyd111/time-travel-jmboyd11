@@ -1,3 +1,3 @@
 # Intro
 
-Welcome to my zine. Inside you will find notes taken about a time machine
+This zine records *raw* logs from a prototype time machine built in my garage.
