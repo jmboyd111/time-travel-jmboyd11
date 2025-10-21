@@ -1,3 +1,3 @@
 # Intro
 
-Welcome to my zine. Inside you will find notes taken about a time machine
+This zine has reflections from time machine trips
