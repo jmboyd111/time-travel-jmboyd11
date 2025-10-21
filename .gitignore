@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+target/
+
+*.log
+*.tmp
